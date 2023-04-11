@@ -1,19 +1,19 @@
 import "./styles/main.css";
 import React from "react";
 import NavBar from "./components/navbar/Navbar";
-import Header from "./components/header/Header";
-import Main from "./components/main/Main";
 import Footer from "./components/footer/Footer";
+import Home from "./pages/Home";
+import Projects from "./pages/Projects";
+import Contacts from "./pages/Contacts";
 
 function App() {
   return (
     <div className="App">
       <NavBar />
 
-      <Header />
-
-      <Main />
-
+      {/* <Home /> */}
+      <Projects />
+      {/* <Contacts /> */}
       <Footer />
     </div>
   );
