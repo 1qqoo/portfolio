@@ -9,27 +9,29 @@ import project03Big from "./../img/projects/01-big.jpg";
 
 const projects = [
   {
-    title: "Gaming streaming portal",
+    id: 1,
+    title: "Gaming portal",
     skills: "React",
     img: project01,
     imgBig: project01Big,
     gitHubLink: "https://github.com/",
   },
   {
-    title: "Gaming streaming portal",
+    id: 2,
+    title: "Gaming streaming ",
     skills: "React",
     img: project02,
     imgBig: project02Big,
     gitHubLink: "https://github.com/",
   },
   {
-    title: "Gaming streaming portal",
+    id: 3,
+    title: "portal",
     skills: "React",
     img: project03,
     imgBig: project03Big,
     gitHubLink: "https://github.com/",
   },
-  {},
 ];
 
 export { projects };
