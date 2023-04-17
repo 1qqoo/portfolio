@@ -17,7 +17,7 @@ function App() {
         <NavBar />
         <Routes>
           <Route
-            path="https://1qqoo.github.io/"
+            path="/"
             element={<Home />}
           />
           <Route
