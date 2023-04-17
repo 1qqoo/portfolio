@@ -1,6 +1,6 @@
 import "./styles/main.css";
 import "./styles/reset.css";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import NavBar from "./components/navbar/Navbar";
 import Footer from "./components/footer/Footer";
 import Home from "./pages/Home";
@@ -12,7 +12,7 @@ import ScrollToTop from "./utils/scrollToTop.js";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <BrowserRouter>
         <ScrollToTop />
         <NavBar />
         <Routes>
@@ -35,7 +35,7 @@ function App() {
         </Routes>
 
         <Footer />
-      </Router>
+      </BrowserRouter>
     </div>
   );
 }
