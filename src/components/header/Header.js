@@ -1,4 +1,4 @@
-import "./style.css";
+import './style.css';
 
 const Header = () => {
   return (
@@ -17,12 +17,12 @@ const Header = () => {
             Если бы всё работало, вас бы уволили."
           </p>
         </div>
-        <a
+        {/* <a
           href="#!"
           className="btn"
         >
           Download CV
-        </a>
+        </a> */}
       </div>
     </header>
   );

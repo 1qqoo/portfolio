@@ -1,6 +1,6 @@
-import { useParams } from "react-router-dom";
-import BtnGit from "../components/btnGit/BtnGit";
-import { projects } from "./../helpers/projectsList";
+import { useParams } from 'react-router-dom';
+import BtnGit from '../components/btnGit/BtnGit';
+import { projects } from './../helpers/projectsList';
 
 const Project = () => {
   const { id } = useParams();
@@ -22,7 +22,7 @@ const Project = () => {
             <p>{project.skills}</p>
           </div>
 
-          <BtnGit link="https://github.com/1qqoo" />
+          <BtnGit link={`${project.gitHubLink}`} />
         </div>
       </div>
     </main>

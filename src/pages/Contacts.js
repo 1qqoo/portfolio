@@ -7,12 +7,12 @@ const Contacts = () => {
         <ul className="content-list">
           <li className="content-list__item">
             <h2 className="title-2">Location</h2>
-            <p>Nalchik, Russia</p>
+            <p>Stavropol, Russia</p>
           </li>
           <li className="content-list__item">
             <h2 className="title-2">Telegram / WhatsApp</h2>
             <p>
-              <a href="tel:+79888625627">+7 (988) 862-56-27</a>
+              <a href="tel:+79888625627">+7 (919) 395-71-58</a>
             </p>
           </li>
           <li className="content-list__item">
