@@ -1,13 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4f7fa747.css",
-    "main.js": "/portfolio/static/js/main.8724054d.js",
-    "static/media/01-big.jpg": "/portfolio/static/media/01-big.ecb03349664096d93b17.jpg",
-    "static/media/03-big.jpg": "/portfolio/static/media/03-big.42d4e6c6843189e73fd2.jpg",
-    "static/media/02-big.jpg": "/portfolio/static/media/02-big.55e8268286a008f0aa84.jpg",
-    "static/media/01.jpg": "/portfolio/static/media/01.793b5447d182a00fa739.jpg",
-    "static/media/03.jpg": "/portfolio/static/media/03.a1f0cefe3665b6313065.jpg",
-    "static/media/02.jpg": "/portfolio/static/media/02.97324eaa701fadea307f.jpg",
+    "main.js": "/portfolio/static/js/main.4bcdc6f1.js",
+    "static/media/Mesto.jpg": "/portfolio/static/media/Mesto.53a5c78d167598a93f82.jpg",
+    "static/media/Learn.jpg": "/portfolio/static/media/Learn.1f1b34c1653a52299916.jpg",
+    "static/media/MestoMin.jpg": "/portfolio/static/media/MestoMin.71e51c5d36b77800f6a4.jpg",
+    "static/media/LearnMin.jpg": "/portfolio/static/media/LearnMin.a6e826124a8f69cd2e10.jpg",
     "static/media/header-bg.png": "/portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
     "static/media/sun.svg": "/portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
@@ -16,10 +14,10 @@
     "static/media/gitHub-black.svg": "/portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
     "index.html": "/portfolio/index.html",
     "main.4f7fa747.css.map": "/portfolio/static/css/main.4f7fa747.css.map",
-    "main.8724054d.js.map": "/portfolio/static/js/main.8724054d.js.map"
+    "main.4bcdc6f1.js.map": "/portfolio/static/js/main.4bcdc6f1.js.map"
   },
   "entrypoints": [
     "static/css/main.4f7fa747.css",
-    "static/js/main.8724054d.js"
+    "static/js/main.4bcdc6f1.js"
   ]
 }
